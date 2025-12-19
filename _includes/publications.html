@@ -1,0 +1,116 @@
+{% assign publications = site.data.data.publications %}
+{% if publications %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ publications.title }}
+  </h2>
+
+  {% if publications.intro %}
+  <div class="intro">
+    {{ publications.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in publications.papers %}
+  <div class="item">
+    {% if publication.link %}
+      <li><a href="{{ publication.link }}">{{ publication.title }}</a></li>
+    {% else %}
+      <li>{{ publication.title }}</li>
+    {% endif %}
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
+
+
+
+
+{% assign projectsnew = site.data.data.projectsnew %}
+{% if projectsnew %}
+<section class="section projectsnew-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ projectsnew.title }}
+  </h2>
+
+  {% for projectsnew in projectsnew.info %}
+  <div class="item">
+
+
+
+    <div class="meta">
+
+                {% if projectsnew.time %}
+      <div class="details">
+        {{ projectsnew.time | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+      <div class="upper-row">
+
+        <h3 class="job-title">{{ projectsnew.role }}</h3>
+
+      </div><!--//upper-row-->
+
+      <div class="company">{{ projectsnew.company }}</div>
+
+
+    </div><!--//meta-->
+
+
+
+  </div><!--//item-->
+  {% endfor %}
+
+
+
+</section><!--//section-->
+{% endif %}
+
+
+
+
+
+
+{% assign experiences1 = site.data.data.experiences1 %}
+{% if experiences1 %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ experiences1.title }}
+  </h2>
+
+
+  {% for project in experiences1.assignments %}
+    <div class="item">
+      {% if project.link %}
+      <a href="{{ publication.link }}" target="_blank">{{ project.title }}</a>
+      {% else %}
+      {{ project.title }}
+      {% endif %}
+
+      {% if project.tagline %}
+       <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
