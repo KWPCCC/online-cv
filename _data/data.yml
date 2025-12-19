@@ -8,279 +8,432 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Desheng Zheng
+  tagline: Assistant researcher
+  avatar: kwp.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: kwp@163.com
+#  phone: 012 345 6789
+#  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+#  citizenship:
+#  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+#  linkedin: alandoe
+#  xing: alandoe
+#  github: jekyll
+#  telegram: # add your nickname without '@' sign
+#  gitlab:
+#  bitbucket:
+#  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+#  twitter: '@jekyllrb'
+#  stack-overflow: # Number/Username, e.g. 123456/alandoe
+#  codewars:
+#  goodreads: # Number-Username, e.g. 123456-alandoe
+#  mastodon: # Please include your full Mastodon link here.
+#  hackerrank: # Please provide your HackerRank username.
+#  leetcode: # Please provide your LeetCode username.
+#  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
+#  languages:
+#    title: Languages
+#    info:
+#    - idiom: English
+#      level: Native
+#
+#    - idiom: French
+#      level: Professional
+#
+#    - idiom: Spanish
+#      level: Professional
+#
+#  interests:
+#    title: Interests
+#    info:
+#    - item: Climbing
+#      link:
+#
+#
+#    - item: Snowboarding
+#      link:
+#
+#
+#    - item: Cooking
+#      link:
 
 
 career-profile:
-  title: Career Profile
+  title: About me
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am currently a PhD student at the University of Electronic Science and Technology of China and concurrently serve as an assistant researcher at the Intelligent Manufacturing Institute at the Kash Institute of Electronics and Information Industry. My research interests are Adversarial Attacks and Defenses, Multimodal Large Models and Time Series Analysis.
+
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: Ph.D. student in Computer Science
+    university: University of Electronic Science and Technology of China
+    time: 2024 - Present
+#    details: |
+#      Describe your study here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#      sociis natoque penatibus et magnis dis parturient montes, nascetur
+#      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#      pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+  - degree: M.D. in Computer Science
+    university: Southwest Petroleum University
+    time: 2021 - 2024
+#    details: |
+#      Describe your study here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#      sociis natoque penatibus et magnis dis parturient montes, nascetur
+#      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#      pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+
+
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - role: Assistant researcher
+    time: 2022-03 - Present
+    company: Kash Institute of Electronics and Information Industry, Intelligent Manufacturing Institute
 
-certifications:
-  title: Certifications
-  list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - role: Ph.D. student
+    time: 2024-09 - Present
+    company: University of Electronic Science and Technology of China, School of Computer Science and Engineering
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#      error sit voluptatem accusantium doloremque laudantium, totam rem
+#      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#      architecto beatae vitae dicta sunt explicabo.
+#        - Bullet point
+#        - Bullet point
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#experiences:
+#  title: Experiences
+#  info:
+#  - role: Lead Developer
+#    time: 2015 - Present
+#    company: Startup Hubs, San Francisco
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#      error sit voluptatem accusantium doloremque laudantium, totam rem
+#      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#      architecto beatae vitae dicta sunt explicabo.
+#        - Bullet point
+#        - Bullet point
+#  - role: Senior Software Engineer
+#    time: 2014 - 2015
+#    company: Google, London
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
+#  - role: UI Developer
+#    time: 2012 - 2014
+#    company: Amazon, London
+#    details: |
+#      Describe your role here lorem ipsum dolor sit amet, consectetuer
+#      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#      Cum sociis natoque penatibus et magnis dis parturient montes,
+#      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#      pellentesque eu, pretium quis, sem.
+#        - Bullet point
+#        - Bullet point
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#certifications:
+#  title: Certifications
+#  list:
+#  - name: CV Builder
+#    start: 2020
+#    end: 2021
+#    organization: Microsoft
+#    credentialid: 111-222
+#    credentialurl: www.google.com
+#    credentialname: Google
+#    details: |
+#      Details about cert. Lorem ipsum dolor sit amet, consectetur
+#      adipiscing elit.
+#      Nullam eget orci purus. Nullam ultrices neque nibh.
+#      Aenean fermentum, felis vulputate suscipit accumsan,
+#      sem enim bibendum augue, sed convallis arcu lacus at dui.
+#      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#      Praesent venenatis erat non augue suscipit consectetur.
+#
+#      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#      fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#      justo diam viverra velit, sed rhoncus leo leo eu justo.
+#      Suspendisse placerat risus ante, sed porta nisi blandit at.
+#  - name: Git learning
+#    start: 2019
+#    end:
+#    organization: Microsoft
+#    credentialid: 111-222
+#    credentialurl: www.github.com
+#    credentialname: Github
+#    details: |
+#      Older certification. Lorem ipsum dolor sit amet, consectetur
+#      adipiscing elit.
+#      Nullam eget orci purus. Nullam ultrices neque nibh.
+#      Aenean fermentum, felis vulputate suscipit accumsan,
+#      sem enim bibendum augue, sed convallis arcu lacus at dui.
+#      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#      Praesent venenatis erat non augue suscipit consectetur.
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#projects:
+#  title: Projects
+##  intro: >
+##    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  assignments:
+#  - title: Study on the key technology of zero-perception migration against security for robust machine vision
+#    link: "#hook"
+#    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#  - title: DevStudio
+#    link: "#"
+#    tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#  - title: Tempo
+#    link: "#"
+#    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#  - title: Atom
+#    link: "#"
+#    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#  - title: Delta
+#    link: "#"
+#    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#oss:
+#  title: OSS Contributions
+#  intro: >
+#    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  contributions:
+#  - title: Tempo
+#    link: "#"
+#    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#  - title: Atom
+#    link: "#"
+#    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#  - title: Delta
+#    link: "#"
+#    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+
 
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
+  - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
+    conference: Applied Soft Computing Journal, 2025.
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+
+
+
+
+  - title: Harmful data enhanced anomaly detection for quasi-periodic multivariate time series
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
+    conference: Applied Intelligence, 2025.
 
-  - title: A syntax directed compiler for Algol 60
+
+
+  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
+    conference: IEEE Transactions on Information Forensics and Security, 2025.
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
 
-      He is a great employee!
+  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
+    link: "#"
+    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
+    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
 
-skills:
-  title: Skills &amp; Proficiency
+  - title: Improving the transferability of adversarial examples through neighborhood attribution
+    link: "#"
+    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
+    conference: Knowledge-Based Systems, 2024.
 
-  toolset:
-  - name: Python & Django
-    level: 98%
+  - title: Channel-augmented joint transformation for transferable adversarial attacks
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
+    conference: Applied Intelligence, 2024.
 
-  - name: Javascript & jQuery
-    level: 98%
 
-  - name: Angular
-    level: 98%
 
-  - name: HTML5 & CSS
-    level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+
+
+
+
+
+
+
+  - title: Improving the transferability of adversarial examples with path tuning
+    link: "#"
+    authors: Li, Tianyu; Li, Xiaoyu*; Ke, Wuping; Tian, Xuwei; Zheng, Desheng; Lu, Chao
+    conference: APPLIED INTELLIGENCE, 2024
+
+
+
+
+
+
+
+
+  - title: CBA Circle-based Black-box Attack Method
+    link: "#"
+    authors: Zheng, Desheng., Zheng, Shuntian., Li, Xiaoyu., Yin, Hao., Wang, Cong.
+    conference: Computer Engineering
+
+  - title: SBA Sphere-based Black-box Attack Method
+    link: "#"
+    authors: Zheng, Desheng., Tian, Ye., Ke, Wuping., Li, Xiaoyu., Yin, Hao.
+    conference: Journal of Computer Science and Exploration
+
+
+
+
+  - title: Adversarial Attack Transferability Enhancement Algorithm Based on Input Channel Splitting
+    link: "#"
+    authors: Zheng, Desheng., Chen, Jixin., Zhou, Jing., Ke, Wuping., Lu, Chao.
+    conference: Computer Engineering
+
+
+
+
+
+
+projectsnew:
+  title: Projects
+  info:
+    - role: Research on Zero-perception Migration Countermeasure Security Key Technology for Robust Machine Vision
+      time: 2025.01 - 2026.12
+      company: Xinjiang Autonomous Region Natural Science Foundation Top-level Project
+
+    - role: Key Technology Research and Development of Warehouse Intelligent Multi-Modal Linkage Equipment such as Cold Chain Logistics Automatic Guided Vehicle (AGV)
+      time: 2023.01-2026.12
+      company: Xinjiang Autonomous Region Second Batch of Key R&D Science and Technology Program Project
+
+    - role:  Research on key technologies for intelligent characterization in tagless time series data for industrial internet of things
+      time: 2023.01-2025.12
+      company: Key Laboratory of Industrial Internet of Things in Networked Control, Ministry of Education
+
+    - role:  Research and Construction of Intelligent Detection System for Deep Forged Images in Social Governance
+      time: 2023.01-2024.12
+      company: Sichuan Key Laboratory of Advanced Cryptography and System Security
+
+    - role:  Research on standardized cataloging for accurate characterization in unlabeled data for industrial IoT
+      time: 2023.01-2025.08
+      company: Key Laboratory of the Ministry of Industry and Information Technology of the Internet of Things Standards and Applications
+
+    - role:  Sichuan Key R&D Project Version 2 Research and Application of Intelligent Cataloging and Reasoning Fusion for Multi-source Test Data of Aero-engine
+      time: 2021.01-2022.12
+      company: Sichuan Provincial Department of Science and Technology
+
+    - role:  Construction and application demonstration project of intelligent logistics cloud platform based on B2T
+      time: 2019.12-2022.12
+      company: Chengdu Key Demonstration Project
+
+
+
+experiences1:
+    title: Service
+    assignments:
+
+#      - title: Conference PC Member
+#        link: "#"
+#        tagline:  CENet 2023, TPCM/WKSP 4
+
+      - title: Journal Reviewer
+        link: "#"
+        tagline:  Served as reviewer for Knowledge-Based System, Scientific Reports, Infectious Disorders.
+
+
+#  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#    link: "#"
+#    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#  - title: A syntax directed compiler for Algol 60
+#    link: "#"
+#    authors: Edgar T. Irons
+#    conference: "Comm. ACM 4 (1961), 51–55"
+
+#recommendations:
+#  title: Recommendations
+#  list:
+#  - person: Yareli Perez
+#    email: perezyareli@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      Alan Doe is a super employee!
+#  - person: Lara Henderson
+#    email: larah@example.com
+#    phone: 012 345 6789
+#    role: General Director at example.com
+#    recommendation: |
+#      I would like to work with Alan Doe again!
+#
+#      He is a great employee!
+
+#skills:
+#  title: Skills &amp; Proficiency
+#
+#  toolset:
+#  - name: Python & Django
+#    level: 98%
+#
+#  - name: Javascript & jQuery
+#    level: 98%
+#
+#  - name: Angular
+#    level: 98%
+#
+#  - name: HTML5 & CSS
+#    level: 95%
+#
+#  - name: Ruby on Rails
+#    level: 85%
+#
+#  - name: Sketch & Photoshop
+#    level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Wuping Ke</a>
