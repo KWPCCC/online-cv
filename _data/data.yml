@@ -8,7 +8,7 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Desheng Zheng
+  name: Wuping Ke
   tagline: Assistant researcher
   avatar: kwp.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -99,7 +99,7 @@ experiences:
   title: Experiences
   info:
   - role: Assistant researcher
-    time: 2022-03 - Present
+    time: 2025-03 - Present
     company: Kash Institute of Electronics and Information Industry, Intelligent Manufacturing Institute
 
   - role: Ph.D. student
@@ -256,20 +256,20 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
-  
+
   - title: Improving the transferability of adversarial examples through neighborhood attribution
     link: "#"
     authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
     conference: Knowledge-Based Systems, 2024.
-    
-    
+
+
   - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
     conference: IEEE Transactions on Information Forensics and Security, 2025.
 
 
-    
+
   - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
     authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping*.
