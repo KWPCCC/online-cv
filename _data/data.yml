@@ -259,7 +259,7 @@ publications:
 
   - title: Improving the transferability of adversarial examples through neighborhood attribution
     link: "#"
-    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
+    authors: Wuping, Ke, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
     conference: Knowledge-Based Systems, 2024.
 
 
@@ -272,18 +272,18 @@ publications:
 
   - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
-    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping*.
+    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Wuping, Ke*.
     conference: Applied Soft Computing Journal, 2025.
 
   - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
     link: "#"
-    authors: Ke, Wuping., Zheng, Desheng*., Zhang, Chi., et al.
+    authors: Wuping, Ke, Zheng, Desheng*., Zhang, Chi., et al.
     conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
 
 
   - title: Harmful data enhanced anomaly detection for quasi-periodic multivariate time series
     link: "#"
-    authors: Wang, Liyuan., Zhou, Yong., Ke, Wuping., Zheng, Ddsheng*., Min, F., & Li, H.
+    authors: Wang, Liyuan., Zhou, Yong., Wuping, Ke,, Zheng, Ddsheng*., Min, F., & Li, H.
     conference: Applied Intelligence, 2025.
 
 
@@ -298,25 +298,25 @@ publications:
 
   - title: Improving the transferability of adversarial examples with path tuning
     link: "#"
-    authors: Li, Tianyu; Li, Xiaoyu*; Ke, Wuping; Tian, Xuwei; Zheng, Desheng; Lu, Chao
+    authors: Li, Tianyu; Li, Xiaoyu*; Wuping, Ke,; Tian, Xuwei; Zheng, Desheng; Lu, Chao
     conference: APPLIED INTELLIGENCE, 2024
 
 
 
   - title: CBA Circle-based Black-box Attack Method
     link: "#"
-    authors: Zheng, Desheng., Zheng, Shuntian., Ke, Wuping, Li, Xiaoyu., Yin, Hao., Wang, Cong.
+    authors: Zheng, Desheng., Zheng, Shuntian., Wuping, Ke, Li, Xiaoyu., Yin, Hao., Wang, Cong.
     conference: Computer Engineering
 
   - title: SBA Sphere-based Black-box Attack Method
     link: "#"
-    authors: Zheng, Desheng., Tian, Ye., Ke, Wuping., Li, Xiaoyu., Yin, Hao.
+    authors: Zheng, Desheng., Tian, Ye., Wuping, Ke, Li, Xiaoyu., Yin, Hao.
     conference: Journal of Computer Science and Exploration
 
 
   - title: Adversarial Attack Transferability Enhancement Algorithm Based on Input Channel Splitting
     link: "#"
-    authors: Zheng, Desheng., Chen, Jixin., Zhou, Jing., Ke, Wuping., Lu, Chao.
+    authors: Zheng, Desheng., Chen, Jixin., Zhou, Jing., Wuping, Ke, Lu, Chao.
     conference: Computer Engineering
 
 
