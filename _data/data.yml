@@ -13,7 +13,7 @@ sidebar:
   avatar: kwp.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: kwp@163.com
+  email: kwp0826@163.com
 #  phone: 012 345 6789
 #  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
 #  citizenship:
@@ -256,13 +256,29 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+  
+  - title: Improving the transferability of adversarial examples through neighborhood attribution
+    link: "#"
+    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
+    conference: Knowledge-Based Systems, 2024.
+    
+    
+  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
+    link: "#"
+    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
+    conference: IEEE Transactions on Information Forensics and Security, 2025.
+
+
+    
   - title: Enhancing Adversarial Transferability by Resolving Gradient Conflicts in Multi-Input Transformations
     link: "#"
-    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping.
+    authors: Zheng, Desheng., Tian, Ye., Zhou, Yong., Duan, Yaoxin., Min, Fan., & Ke, Wuping*.
     conference: Applied Soft Computing Journal, 2025.
 
-
-
+  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
+    link: "#"
+    authors: Ke, Wuping., Zheng, Desheng*., Zhang, Chi., et al.
+    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
 
 
   - title: Harmful data enhanced anomaly detection for quasi-periodic multivariate time series
@@ -272,34 +288,10 @@ publications:
 
 
 
-  - title: Enhancing the Transferability of Adversarial Attacks via Multi-Feature Attention
-    link: "#"
-    authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Yaoxin Duan, Guangqiang Yin, and Fan Min
-    conference: IEEE Transactions on Information Forensics and Security, 2025.
-
-
-  - title: CGFMD CNN and GRU Based Framework for Malicious Domain Name Detection
-    link: "#"
-    authors: Ke, Wuping., Zheng, Desheng., Zhang, Chi., et al.
-    conference: International Conference on Artificial Intelligence and Security, 2022. (Best paper)
-
-  - title: Improving the transferability of adversarial examples through neighborhood attribution
-    link: "#"
-    authors: Ke, Wuping, Desheng Zheng*, Xiaoyu Li, Yuanhang He, Tianyu Li, and Fan Min
-    conference: Knowledge-Based Systems, 2024.
-
   - title: Channel-augmented joint transformation for transferable adversarial attacks
     link: "#"
     authors: Zheng, Desheng, Wuping Ke*, Xiaoyu Li, Shibin Zhang, Guangqiang Yin, Weizhong Qian, Yong Zhou, Fan Min, and Shan Yang
     conference: Applied Intelligence, 2024.
-
-
-
-
-
-
-
-
 
 
 
@@ -311,22 +303,15 @@ publications:
 
 
 
-
-
-
-
-
   - title: CBA Circle-based Black-box Attack Method
     link: "#"
-    authors: Zheng, Desheng., Zheng, Shuntian., Li, Xiaoyu., Yin, Hao., Wang, Cong.
+    authors: Zheng, Desheng., Zheng, Shuntian., Ke, Wuping, Li, Xiaoyu., Yin, Hao., Wang, Cong.
     conference: Computer Engineering
 
   - title: SBA Sphere-based Black-box Attack Method
     link: "#"
     authors: Zheng, Desheng., Tian, Ye., Ke, Wuping., Li, Xiaoyu., Yin, Hao.
     conference: Journal of Computer Science and Exploration
-
-
 
 
   - title: Adversarial Attack Transferability Enhancement Algorithm Based on Input Channel Splitting
@@ -346,29 +331,10 @@ projectsnew:
       time: 2025.01 - 2026.12
       company: Xinjiang Autonomous Region Natural Science Foundation Top-level Project
 
-    - role: Key Technology Research and Development of Warehouse Intelligent Multi-Modal Linkage Equipment such as Cold Chain Logistics Automatic Guided Vehicle (AGV)
-      time: 2023.01-2026.12
-      company: Xinjiang Autonomous Region Second Batch of Key R&D Science and Technology Program Project
-
-    - role:  Research on key technologies for intelligent characterization in tagless time series data for industrial internet of things
-      time: 2023.01-2025.12
-      company: Key Laboratory of Industrial Internet of Things in Networked Control, Ministry of Education
-
     - role:  Research and Construction of Intelligent Detection System for Deep Forged Images in Social Governance
       time: 2023.01-2024.12
       company: Sichuan Key Laboratory of Advanced Cryptography and System Security
 
-    - role:  Research on standardized cataloging for accurate characterization in unlabeled data for industrial IoT
-      time: 2023.01-2025.08
-      company: Key Laboratory of the Ministry of Industry and Information Technology of the Internet of Things Standards and Applications
-
-    - role:  Sichuan Key R&D Project Version 2 Research and Application of Intelligent Cataloging and Reasoning Fusion for Multi-source Test Data of Aero-engine
-      time: 2021.01-2022.12
-      company: Sichuan Provincial Department of Science and Technology
-
-    - role:  Construction and application demonstration project of intelligent logistics cloud platform based on B2T
-      time: 2019.12-2022.12
-      company: Chengdu Key Demonstration Project
 
 
 
